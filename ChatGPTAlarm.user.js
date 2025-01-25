@@ -6,8 +6,8 @@
 // @author       Hinson Chan, github.com/flatypus
 // @match        *://chatgpt.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com
-// @downloadURL  https://github.com/flatypus/chatgptalarm/raw/refs/heads/master/ChatGPTAlarm.user.js
-// @updateURL    https://github.com/flatypus/chatgptalarm/raw/refs/heads/master/ChatGPTAlarm.user.js
+// @downloadURL  https://github.com/flatypus/ChatGPTAlarm/raw/refs/heads/main/ChatGPTAlarm.user.js
+// @updateURL    https://github.com/flatypus/ChatGPTAlarm/raw/refs/heads/main/ChatGPTAlarm.user.js
 // @grant        none
 // @license MIT
 // ==/UserScript==
